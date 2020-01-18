@@ -1,3 +1,3 @@
 <?php
 
-phpInfo
+phpInfo（“我是大王”）
